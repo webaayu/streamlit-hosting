@@ -14,4 +14,4 @@ submit = st.button("Tell me about the PDF")
 #if submit button is clicked,
 if submit:
 st.subheader("The response is..")
-st.write(“response”) # st.write(response) if answer stored in variable
+st.write('response') # st.write(response) if answer stored in variable
